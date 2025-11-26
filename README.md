@@ -35,7 +35,11 @@ For private audit or consulting requests, please reach out to me via:
 | 20. | `Usual Labs` ~ Sherlock | Usual is a secure and decentralized fiat-backed stablecoin issuer that redistributes value and ownership through the $USUAL token. Take control, make an impact, and grow with us. | [Link](https://github.com/sherlock-audit/2025-02-usual-labs-judging/issues) | [33rd](https://audits.sherlock.xyz/contests/832/leaderboard)
 | 21. | `Telcoin Update #2` ~ Sherlock | Telcoin leverages blockchain technology to provide access to low-cost, high-quality decentralized financial products for every mobile phone user in the world. | [Link](https://github.com/sherlock-audit/2024-11-telcoin-judging/issues) | [33rd](https://audits.sherlock.xyz/contests/643/leaderboard)
 | 22. | `SecondSwap` ~ Code4rena | Unlock liquidity for illiquid assets. | [Link](https://code4rena.com/reports/2024-12-secondswap) | [31st](https://code4rena.com/audits/2024-12-secondswap)
-| 23. | ``
+| 23. | `Mellow Flexible Vaults` ~ Sherlock | Mellow is modular vault infrastructure built for institutional-grade asset management on EVM chains. | [Link](https://audits.sherlock.xyz/contests/964/report)| [43rd](https://audits.sherlock.xyz/contests/964/leaderboard)
+| 24. | `LEND` ~ Sherlock | LEND is a cross chain lending protocol with real yield value extraction, from protocol, to holder. | [Link](https://audits.sherlock.xyz/contests/908/report) | [47th](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues)
+| 25. | `Oku's New Order Types Contract Contest` ~ Sherlock | Oku is bring CeFi order types to DeFi with their new order types contract. Oku will offer stop loss, stop limit, bracket orders, and more order types previously unavailable to DeFi traders. | [Link](https://audits.sherlock.xyz/contests/641/report) | [37th](https://audits.sherlock.xyz/contests/641/leaderboard)
+| 26. | `Nouns DAO - Auction Streams` ~ Sherlock | The current upgrade introduces a new feature we call “Streams Escrow”. It changes how funds flow from auctions to the DAO, such that instead of being sent to the DAO treasury upon settlement, most of the auction proceeds are placed in an escrow contract that streams over time. | [Link](https://github.com/sherlock-audit/2024-11-nounsdao-judging/issues) | [45th](https://audits.sherlock.xyz/contests/688/leaderboard)
+| 27. | 
 
 
 
