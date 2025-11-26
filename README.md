@@ -1,6 +1,6 @@
 # 0xpetern-Security-Porfolio
 - [About Peter](https://github.com/0xpetern/0xpetern-web3-security/blob/main/README.md#about-me)
-- [Competitive Audits](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#competitive-audits)
+- [Competitive Audits](https://github.com/0xpetern/0xpetern-web3-security/blob/main/README.md#competitive-audits)
 
 # About Me
 I am 0xpetern (Peter Ndukwo), a result-driven Web3 Security Researcher focused on making the Web3 ecosystem safe. I have over thirty (30) contest wins. Results so far includes multiple wins on Sherlock, 1st in Mach Finance (2024, Sherlock), top 10 in a $200k ZetaChain contest (Sherlock), and 5th in a $200k Chainlink Rewards contest (Code4rena). I'm developing new strategies to improve the efficiency of security audits. I'm proficient in Go, Move, Solidity & Rust.
