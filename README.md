@@ -3,7 +3,7 @@
 - [Competitive Audits](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#competitive-audits)
 
 # About Me
-I am 0xpetern (Peter Ndukwo), a result-driven Web3 Security Researcher focused on making the Web3 ecosystem safe. Results so far includes multiple wins on Sherlock, 1st in Mach Finance (2024, Sherlock), top 10 in a $200k ZetaChain contest (Sherlock), and 5th in a $200k Chainlink Rewards contest (Code4rena). I'm developing new strategies to improve the efficiency of security audits. I'm proficient in Go, Move, Solidity & Rust.
+I am 0xpetern (Peter Ndukwo), a result-driven Web3 Security Researcher focused on making the Web3 ecosystem safe. I have over thirty (30) contest wins. Results so far includes multiple wins on Sherlock, 1st in Mach Finance (2024, Sherlock), top 10 in a $200k ZetaChain contest (Sherlock), and 5th in a $200k Chainlink Rewards contest (Code4rena). I'm developing new strategies to improve the efficiency of security audits. I'm proficient in Go, Move, Solidity & Rust.
 
 For private audit or consulting requests, please reach out to me via:
 - Twitter `@0xpetern`
@@ -39,7 +39,11 @@ For private audit or consulting requests, please reach out to me via:
 | 24. | `LEND` ~ Sherlock | LEND is a cross chain lending protocol with real yield value extraction, from protocol, to holder. | [Link](https://audits.sherlock.xyz/contests/908/report) | [47th](https://github.com/sherlock-audit/2025-05-lend-audit-contest-judging/issues)
 | 25. | `Oku's New Order Types Contract Contest` ~ Sherlock | Oku is bring CeFi order types to DeFi with their new order types contract. Oku will offer stop loss, stop limit, bracket orders, and more order types previously unavailable to DeFi traders. | [Link](https://audits.sherlock.xyz/contests/641/report) | [37th](https://audits.sherlock.xyz/contests/641/leaderboard)
 | 26. | `Nouns DAO - Auction Streams` ~ Sherlock | The current upgrade introduces a new feature we call “Streams Escrow”. It changes how funds flow from auctions to the DAO, such that instead of being sent to the DAO treasury upon settlement, most of the auction proceeds are placed in an escrow contract that streams over time. | [Link](https://github.com/sherlock-audit/2024-11-nounsdao-judging/issues) | [45th](https://audits.sherlock.xyz/contests/688/leaderboard)
-| 27. | 
+| 27. | `PinLink: RWA-Tokenized DePIN Marketplace` ~ Sherlock | PinLink is the first RWA-Tokenized DePIN platform, empowering users with fractionalized ownership of DePIN assets. | [Link](https://github.com/sherlock-audit/2025-03-pinlink-rwa-tokenized-depin-marketplace-judging/issues) | [56th](https://audits.sherlock.xyz/contests/852/leaderboard)
+| 28. | `Chakra` ~ Code4rena | The first modular settlement layer designed to unlock Bitcoin's liquidity across diverse blockchain ecosystems. | [Link](https://code4rena.com/reports/2024-08-chakra) | [59th](https://code4rena.com/audits/2024-08-chakra)
+| 29. | `Aave v3.3` ~ Sherlock | Aave is a DeFi liquidity protocol for users to supply and borrow assets. This contest focuses on its v3.3 version, optimising different components of the system like liquidations or bad debt management | [Link](https://github.com/sherlock-audit/2025-01-aave-v3-3-judging/issues) | [69th](https://audits.sherlock.xyz/contests/747/leaderboard)
+| 30. | `DODO Cross-Chain DEX` ~ Sherlock | This contest focuses on the security of DEX built on ZetaChain’s cross-chain infrastructure. | [Link](https://audits.sherlock.xyz/contests/991/report) | [61st](https://audits.sherlock.xyz/contests/991/leaderboard)
+| 31. | `USG - Tangent` ~ Sherlock | USG is a debt collateralized stablecoin backed by productive LPs and yield-bearing assets from blue chip DeFi protocols. | [Link](https://audits.sherlock.xyz/contests/1073/report) | [63rd](https://audits.sherlock.xyz/contests/1073/leaderboard)
 
 
 
