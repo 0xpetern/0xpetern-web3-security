@@ -1,5 +1,5 @@
 # 0xpetern-Security-Porfolio
-- [About Harry](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#About-Me)
+- [About Peter](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#About-Me)
 - [Competitive Audits](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#competitive-audits)
 
 # About Me
