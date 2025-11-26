@@ -1,21 +1,19 @@
 # 0xpetern-Security-Porfolio
-- [About Harry](https://github.com/HarryBarz/HarryBarz-Audits/blob/main/README.md#about-harry)
-- [Competitive Audits](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#competitive-audits)
-- [Private Audits](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#private-audits)
-- [Everything Immunefi](https://github.com/HarryBarz/HarryBarz-Audits/edit/main/README.md#everything-immunefi)
+- [About Harry](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#About-Me)
+- [Competitive Audits](https://github.com/0xpetern/0xpetern-web3-security/main/README.md#competitive-audits)
 
 # About Me
-I am a result-driven Web3 Security Researcher focused on making the Web3 ecosystem safe. Results so far includes multiple wins on Sherlock, 1st in Mach Finance (2024, Sherlock), top 10 in a $200k ZetaChain contest (Sherlock), and 5th in a $200k Chainlink Rewards contest (Code4rena). I'm building new strategies for efficient audit. Proficient in Go, Move, Solidity & Rust.
+I am 0xpetern (Peter Ndukwo), a result-driven Web3 Security Researcher focused on making the Web3 ecosystem safe. Results so far includes multiple wins on Sherlock, 1st in Mach Finance (2024, Sherlock), top 10 in a $200k ZetaChain contest (Sherlock), and 5th in a $200k Chainlink Rewards contest (Code4rena). I'm developing new strategies to improve the efficiency of security audits. I'm proficient in Go, Move, Solidity & Rust.
 
 For private audit or consulting requests, please reach out to me via:
-- Twitter `@0xbarz`
-- Telegram `@HarryBarz`
-- Discord `@HarryBarz`
+- Twitter `@0xpetern`
+- Telegram `@Peternduk`
+- Discord `@0xpetern`
  
 # Competitive Audits
-| Contest | Description | Link |
-|-----:|-----|-----|
-| `reserve-index-dtf ~ Cantina` | The Reserve Index Protocol is a protocol for creating and managing portfolios of ERC20-compliant assets entirely onchain.| [Link](https://cantina.xyz/code/9dfca0bc-a7bf-482e-a3df-4eb861f55c4f/overview) |
+| Contest | Description | Audit Report | Rank |
+|-----:|-----|-----|-----|
+| `MachFi` ~ Sherlock| Mach Finance is a borrow/lending platform native to Sonic, built on top of Compound v2.| [Link](https://audits.sherlock.xyz/contests/727/report) | [1st](https://audits.sherlock.xyz/contests/727/leaderboard)
 | `Seda Protocol ~ Sherlock` | Seda is programmable oracle infrastructure. Allowing developers to access any data from any L1 or L2. This audit is focussed on the chain and the oracle batch proof accessibility and verification across evm chains. | [Link](https://audits.sherlock.xyz/contests/729) |
 | `Crystal Netwrok ~ Sherlock` | Crestal Network is building upgradeable, gasless (ERC-4337) smart contracts for creating and managing AI agents, including on-chain payments and agent updates.| [Link](https://audits.sherlock.xyz/contests/755) |
 | `Velvet-V4 ~ Cantina` | Velvet.Capital is an Intent Operating System for DeFi which aims to streamline onchain portfolio management.| [Link](https://cantina.xyz/code/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8/overview) |
