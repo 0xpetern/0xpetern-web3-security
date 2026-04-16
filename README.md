@@ -3,7 +3,7 @@
 - [Competitive Audits](https://github.com/0xpetern/0xpetern-web3-security/blob/main/README.md#competitive-audits)
 
 # About Me
-Peter Ndukwo, professionally known as 0xpetern, is a profound Web3 Security Researcher and Smart Contract Auditor specialized in deep, high-impact vulnerability discovery across DeFi, lending protocols, cross-chain systems, L2 rollups, and zero-knowledge cryptographic systems. He has audited complex, high-stakes codebases including Aave, LayerZero, ZetaChain, Brevis Pico and consistently proves his expertise in competitive environments like Sherlock and Code4rena with over 30 contest wins. His results include 1st place in Mach Finance (Sherlock, 2024), Top 10 in the $200k ZetaChain audit (Sherlock), and 5th in the $200k Chainlink Rewards audit (Code4rena). 
+Peter Ndukwo, professionally known as 0xpetern, is a profound Web3 Security Researcher and Smart Contract Auditor specialized in deep, high-impact vulnerability discovery across DeFi, lending protocols, cross-chain systems, L2 rollups, and zero-knowledge cryptographic systems. He has audited complex, high-stakes codebases including Aave, LayerZero, ZetaChain, Brevis Pico and consistently proves his expertise in competitive environments like Sherlock and Code4rena with over 30 contest wins. His results include 1st place in Mach Finance (Sherlock, 2024), Top 10 in the $200k ZetaChain audit (Sherlock), and 3rd in the $200k Chainlink Rewards audit (Code4rena). 
 He is actively developing new analytical and automation strategies to push the efficiency and depth of smart contract security. He works across Go, Move, Solidity, and Rust.
 
 For private audit or consulting requests, please reach out to me via:
